@@ -63,7 +63,8 @@ public class RandomForecast extends JFrame {
 
 
         setVisible(true);
-        setResizable(false); // Disable resizing
+        setResizable(false); 
+        // Disable resizing so that exact measurements are not distorted
 
 
         }
